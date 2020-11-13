@@ -1,0 +1,65 @@
+[
+	{
+		"transactionId": "76687989989",
+		"customerName": "ALice",
+		"customerId": "42342",
+		"transactionDate": "08-01-2019",
+		"amount": 100
+	},
+	{
+		"transactionId": "766879899866",
+		"customerName": "ALice",
+		"customerId": "42342",
+		"transactionDate": "08-11-2019",
+		"amount": 75
+	},
+	{
+		"transactionId": "76687989986",
+		"customerName": "ALice",
+		"customerId": "42342",
+		"transactionDate": "08-11-2019",
+		"amount": 25
+	},
+	{
+		"transactionId": "76687989986",
+		"customerName": "ALice",
+		"customerId": "42342",
+		"transactionDate": "10-11-2019",
+		"amount": 200
+	},
+	{
+		"transactionId": "7668798789",
+		"customerName": "Bob",
+		"customerId": "42341",
+		"transactionDate": "08-12-2019",
+		"amount": 94
+	},
+	{
+		"transactionId": "7668798789",
+		"customerName": "Bob",
+		"customerId": "42341",
+		"transactionDate": "08-12-2019",
+		"amount": 125
+	},
+	{
+		"transactionId": "7668898789",
+		"customerName": "Bob",
+		"customerId": "42341",
+		"transactionDate": "09-11-2019",
+		"amount": 225
+	},
+	{
+		"transactionId": "7668798780",
+		"customerName": "Joe",
+		"customerId": "42340",
+		"transactionDate": "10-21-2019",
+		"amount": 94
+	},
+	{
+		"transactionId": "7668779789",
+		"customerName": "Sally",
+		"customerId": "42346",
+		"transactionDate": "09-21-2019",
+		"amount": 120
+	}
+]
